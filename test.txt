@@ -1,4 +1,5 @@
 this is a file
 this is a change to a file
 this is 3rd line
+line 4
 
